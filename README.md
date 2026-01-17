@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @renzDC3
 - 👀 I’m interested in Coding...
-- 🌱 I’m currently learning C# prog. language...
-- 📫 How to reach me (zedcruz322@gmail.com)
+- 🌱 I’m currently learning javascript & C# prog. language...
+- 📫 How to reach me (renzdelacruz0za@gmail.com)
 
 <!---
 renzDC3/renzDC3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
